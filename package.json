@@ -1,0 +1,19 @@
+{
+  "name": "clovis-lambda-convert-and-upload-image-to-tiles",
+  "version": "1.0.0",
+  "description": "Conversion lib for blueprint big image to tiles",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.15",
+    "sharp": "^0.24.1"
+  },
+  "scripts": {
+    "test": "mocha tests/unit/ --timeout 100000 --verbose=true"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
