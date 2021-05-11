@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "sharp": "^0.24.1"
   },
   "scripts": {
