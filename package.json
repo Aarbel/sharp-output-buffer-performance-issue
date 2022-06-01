@@ -7,7 +7,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "lodash": "^4.17.15",
-    "sharp": "^0.24.1"
+    "sharp": "^0.30.5"
   },
   "scripts": {
     "test": "mocha tests/unit/ --timeout 100000 --verbose=true"
